@@ -1,0 +1,13 @@
+name: Galaxy-Hub
+main: Lobby.Main
+author: O16
+version: 1.0
+commands:
+   help:
+   discord:
+   website:
+   online:
+   vanish:
+   build:
+   invsee:
+   v:
