@@ -1,0 +1,24 @@
+# ----------============[ Staff System ]============---------- #
+#															   
+# PLUGIN: STAFF										  		  
+# AUTHOR: O16#6006											   
+# VERSION: 1.0 BETA
+#
+# MAIN COMMAND: /staff
+#
+# ----------========================================---------- #
+
+license-key: 'Qmiw1vds8olAQ'
+
+prefix: "&8&l┃ &c&lSTAFF &8&l┃"
+noperm: "&rcommand not found."
+
+mysql:
+  address: ''
+  username:''
+  password:''
+  port: 3306
+  database: ''
+
+vanish:
+  teleport-to-spawn: true

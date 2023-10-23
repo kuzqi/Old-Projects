@@ -1,0 +1,10 @@
+name: Yaki-Survival
+main: me.o16.Main
+author: O16
+version: 1.0
+commands: 
+   spawn:
+   normalworld:
+   netherworld:
+   theendworld:
+   setrank:

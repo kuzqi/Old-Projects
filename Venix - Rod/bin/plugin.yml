@@ -1,0 +1,7 @@
+name: VenixRod
+main: me.devo.Main
+author: Devo
+version: 1.1
+commands:
+   rreload:
+   rodreload:
