@@ -1,0 +1,9 @@
+mysql:
+# DO NOT CHANGE DRIVER!
+  driver: MySQL
+  address: "localhost"
+  username: "username"
+  password: "password"
+  port: 3306
+  database: "database"
+  table_prefix: "redpvp_"

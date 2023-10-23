@@ -1,0 +1,9 @@
+name: PvP
+main: PvP.Main
+author: O16
+version: 1.0
+commands:
+   build:
+   vanish:
+   v:
+   invsee:

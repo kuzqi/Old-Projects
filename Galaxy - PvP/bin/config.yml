@@ -1,0 +1,18 @@
+prefix: "&8┃ &3✪ &8┃&r"
+
+mysql:
+  address: 'localhost'
+  username: 'root'
+  password: ''
+  port: 3306
+  database: 'pvp'
+
+
+messages:
+  cooldown: "&8┃ &3✪ &8┃&r &cPlease wait a few seconds to it again."
+  invaild-usage: "&8┃ &3✪ &8┃&r &cInvaild command usage, please try again."
+  only-players: "&8┃ &3✪ &8┃&r &cOnly players can use execute this command."
+  discord-link: "&8┃ &3✪ &8┃&r &dhttps://discord.gg/eRjhF6Fvrn"
+  website-link: "&c&lSOON"
+  no-permission: '&rUnknown command. Type "/help" for help.'
+  unknown-player: "&8┃ &3✪ &8┃&r &cPlayer not found."
